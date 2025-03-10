@@ -2562,6 +2562,27 @@
     ]
   },
   {
+    "name": "FuzzUEr",
+    "year": "2025",
+    "targets": [
+      "Firmware"
+    ],
+    "color": "greybox",
+    "references": [
+      "LibAFL"
+    ],
+    "author": [
+      "Connor Glosner",
+      "Aravind Machiry"
+    ],
+    "toolurl": "https://github.com/BreakingBoot/FuzzUEr",
+    "title": "FUZZUER: Enabling Fuzzing of UEFI Interfaces on EDK-2",
+    "booktitle": "Proceedings of the Network and Distributed System Security Symposium",
+    "miscurl": [
+      "https://www.ndss-symposium.org/wp-content/uploads/2025-400-paper.pdf"
+    ]
+  },
+  {
     "name": "Fuzzbox",
     "year": 2008,
     "author": [
@@ -5040,6 +5061,30 @@
     "color": "greybox"
   },
   {
+    "name": "NodeMedic-FINE",
+    "year": "2025",
+    "targets": [
+      "JavaScript"
+    ],
+    "color": "greybox",
+    "references": [
+      "FAST"
+    ],
+    "author": [
+      "Darion Cassel",
+      "Nuno Sabino",
+      "Min-Chien Hsu",
+      "Ruben Martins",
+      "Limin Jia"
+    ],
+    "toolurl": "https://zenodo.org/records/14249091",
+    "title": "NodeMedic-FINE: Automatic Detection and Exploit Synthesis for Node.js Vulnerabilities",
+    "booktitle": "Proceedings of the Network and Distributed System Security Symposium",
+    "miscurl": [
+      "https://www.ndss-symposium.org/wp-content/uploads/2025-1636-paper.pdf"
+    ]
+  },
+  {
     "name": "Nyx",
     "year": 2021,
     "author": [
@@ -7211,6 +7256,31 @@
     ],
     "miscurl": [
       "https://www.usenix.org/system/files/sec22-trippel.pdf"
+    ]
+  },
+  {
+    "name": "Truman",
+    "year": "2025",
+    "targets": [
+      "Hypervisor"
+    ],
+    "color": "greybox",
+    "references": [
+      "Morphuzz"
+    ],
+    "author": [
+      "Zheyu Ma",
+      "Qiang Liu",
+      "Zheming Li",
+      "Tingting Yin",
+      "Wende Tan",
+      "Chao Zhang",
+      "Mathias Payer"
+    ],
+    "title": "Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices",
+    "booktitle": "Proceedings of the Network and Distributed System Security Symposium",
+    "miscurl": [
+      "https://www.ndss-symposium.org/wp-content/uploads/2025-301-paper.pdf"
     ]
   },
   {
